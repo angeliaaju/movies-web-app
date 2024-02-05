@@ -48,7 +48,7 @@ https://tv-api.com/?gclid=Cj0KCQiAwvKtBhDrARIsAJj-kTjlML0Hp9EWWaTbFwELsQbAepl-br
     
       src\util\config.json
       
-5. Refer to any one of the following repositories to host the backend REST API as per your preference.
+5. Refer to the following repositories to host the backend REST API as per your preference.
 
       https://github.com/angeliaaju/movie-rest-api.git (Built using Node.js)
   
