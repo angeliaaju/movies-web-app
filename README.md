@@ -3,6 +3,7 @@
 Movie Review Portal built using React JS. The web application has a provision to Add New Movies and reviews. We are in the process of integrating Netflix, and Disney Hot Star to directly fetch movie information from the API's exposed by them or use omdbapi or tv-api 
 
 https://www.omdbapi.com/?s=${query}&apikey=ffb0eb42
+
 https://tv-api.com/?gclid=Cj0KCQiAwvKtBhDrARIsAJj-kTjlML0Hp9EWWaTbFwELsQbAepl-brgAToJYhhBg5JtwK_WISMtz7XAaAlqWEALw_wcB
 
 1. View the list of Movies available in Portal
