@@ -46,10 +46,8 @@ Movie Review Portal build using React JS
       
 5. Refer any one of the following repository to host the backend REST API as per your preference.
 
-      https://github.com/angeliaaju/movieaggregator.git (Built using Node.js)
-      
-      https://github.com/angeliaaju/movieaggregator.git (Built using Spring Boot)
-
+      https://github.com/angeliaaju/movie-rest-api.git (Built using Node.js)
+  
 6. A Spring Boot Batch Application is needed for processing User Reviews and update the Database with Top Rated Movies in Real-Time
 
       https://github.com/angeliaaju/movieaggregator.git
