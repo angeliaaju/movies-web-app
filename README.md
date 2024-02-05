@@ -2,7 +2,7 @@
 
 The high-level approach is shown in the figure below 
 
-![](/screenshots/Movie Aggregator Approach.png)
+![](/screenshots/MovieAggregatorApproach.png)
 
 # movies-web-app
 
