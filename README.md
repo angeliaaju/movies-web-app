@@ -1,3 +1,9 @@
+# High-Level Architecture
+
+The high-level approach is shown in the figure below 
+
+![](/screenshots/Movie Aggregator Approach.png)
+
 # movies-web-app
 
 Movie Review Portal built using React JS. The web application has a provision to Add New Movies and reviews. We are in the process of integrating Netflix, and Disney Hot Star to directly fetch movie information from the API's exposed by them or use omdbapi or tv-api 
